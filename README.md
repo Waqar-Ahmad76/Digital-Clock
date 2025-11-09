@@ -22,5 +22,5 @@ It dynamically displays your **local time** and updates every second.
 
 ---
 
-## 📂 Project Structure
+
 
